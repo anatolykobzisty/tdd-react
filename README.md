@@ -1,3 +1,11 @@
+Learn tdd-react
+
+Opinion-ate
+
+An app for tracking reviews of dishes at different restaurants.
+
+Production: <https://tdd-react.netlify.com>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
